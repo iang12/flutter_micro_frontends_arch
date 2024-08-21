@@ -1,0 +1,5 @@
+arb-dir: lib/src/shared/l10n/lang
+template-arb-file: app_pt.arb
+synthetic-package: false
+output-class: LoginLocalizations
+output-dir: lib/src/shared/l10n
